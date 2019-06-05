@@ -1,0 +1,8 @@
+[package]
+name = "app"
+version = "0.1.0"
+authors = ["med"]
+edition = "2018"
+
+[dependencies]
+im-rc = "13.0.0"
